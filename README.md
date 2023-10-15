@@ -1,4 +1,4 @@
-### Hi there, I'm Vysali 👋🏼
+### Hello there, I'm Vysali 👋🏼
 
 <!--
 **vysalik98/vysalik98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
